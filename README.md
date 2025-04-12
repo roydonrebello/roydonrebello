@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **Web Frameworks & DSA**
 
-- - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Learn Cloud on AWS and Azure.
